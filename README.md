@@ -2,7 +2,7 @@
 * 💪 Pronouns: He/Him
 * 🧑‍🎓 Bachelor of Computer Application
 * 👀 I’m interested in JAVA and Web Development
-* 🌱 I’m currently learning ...
+* 🌱 I’m currently learning React.js
 * 💞️ I’m Interested in learning new technology
 * 📫 How to reach me rajapradhan291@gmail.com
 * ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
